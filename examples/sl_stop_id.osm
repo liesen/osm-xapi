@@ -1,0 +1,1804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-10-31T21:31:02Z"/>
+
+  <node id="161278" lat="59.3295537" lon="17.9816688">
+    <tag k="name" v="Alviks strand"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9812"/>
+  </node>
+  <node id="161289" lat="59.3325199" lon="18.0039624">
+    <tag k="name" v="Kristineberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9113"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Kristineberg_%28tunnelbanestation%29"/>
+  </node>
+  <node id="161307" lat="59.3382093" lon="17.9398609">
+    <tag k="name" v="Brommaplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9109"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Brommaplan"/>
+  </node>
+  <node id="161312" lat="59.3460417" lon="17.8932032">
+    <tag k="name" v="Islandstorget"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9106"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Islandstorget#Tunnelbanestationen"/>
+  </node>
+  <node id="161319" lat="59.3419803" lon="17.9072266">
+    <tag k="name" v="Ängbyplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9107"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/%C3%84ngbyplan"/>
+  </node>
+  <node id="161323" lat="59.3485138" lon="17.8827584">
+    <tag k="name" v="Blackeberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9105"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Blackeberg#Tunnelbanestationen"/>
+  </node>
+  <node id="161338" lat="59.3421005" lon="17.9239476">
+    <tag k="name" v="Åkeshov"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9108"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/%C3%85keshov_%28tunnelbanestation%29"/>
+  </node>
+  <node id="161348" lat="59.3679644" lon="17.8578156">
+    <tag k="name" v="Johannelund"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9102"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Johannelund_%28tunnelbanestation%29"/>
+  </node>
+  <node id="161383" lat="59.3640349" lon="17.8705456">
+    <tag k="name" v="Vällingby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9103"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/V%C3%A4llingby#Tunnelbanan"/>
+  </node>
+  <node id="193807" lat="59.3346183" lon="17.9659453">
+    <tag k="name" v="Stora mossen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9111"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Stora_mossen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="312051" lat="59.2362397" lon="17.9787254">
+    <tag k="name" v="Huddinge"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Hu"/>
+    <tag k="sl_stop_id" v="9527"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="433498" lat="59.0475826" lon="17.4190429">
+    <tag k="name" v="Mölnbo"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Mö"/>
+    <tag k="sl_stop_id" v="9541"/>
+  </node>
+  <node id="6963267" lat="59.2984096" lon="17.9981810">
+    <tag k="name" v="Telefonplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9263"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Telefonplan#Tunnelbanestationen"/>
+  </node>
+  <node id="22470885" lat="59.5687344" lon="17.5328901">
+    <tag k="name" v="Bålsta"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Bål"/>
+    <tag k="sl_stop_id" v="9710"/>
+  </node>
+  <node id="22471106" lat="59.4525033" lon="17.8066566">
+    <tag k="is_in:country" v="Sweden"/>
+    <tag k="is_in:county" v="Stockholms län"/>
+    <tag k="is_in:kommun" v="Järfälla"/>
+    <tag k="is_in:suburb" v="Kallhäll"/>
+    <tag k="name" v="Kallhäll"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Khä"/>
+    <tag k="sl_stop_id" v="9701"/>
+  </node>
+  <node id="25642888" lat="59.2187110" lon="17.9470419">
+    <tag k="name" v="Flemingsberg"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Flb"/>
+    <tag k="sl_stop_id" v="9526"/>
+    <tag k="source" v="yahoo"/>
+  </node>
+  <node id="25947507" lat="59.5837708" lon="17.8799863">
+    <tag k="name" v="Rosersberg"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Rs"/>
+    <tag k="sl_stop_id" v="9501"/>
+  </node>
+  <node id="25947919" lat="59.4758766" lon="17.9146441">
+    <tag k="name" v="Rotebro"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="R"/>
+    <tag k="sl_stop_id" v="9503"/>
+  </node>
+  <node id="25948183" lat="59.3299775" lon="18.0576622">
+    <tag k="name" v="Stockholms central"/>
+    <tag k="name:da" v="Stockholms centralstation"/>
+    <tag k="opened" v="July 18, 1871"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Cst"/>
+    <tag k="sl_stop_id" v="9000"/>
+    <tag k="wikipedia" v="sv:Stockholms_centralstation"/>
+  </node>
+  <node id="25948204" lat="59.3397052" lon="18.0293757">
+    <tag k="name" v="Karlberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Ke"/>
+    <tag k="sl_stop_id" v="9510"/>
+    <tag k="source" v="yahoo +local knowledge"/>
+  </node>
+  <node id="27594731" lat="59.4238735" lon="17.8329911">
+    <tag k="name" v="Jakobsberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Jkb"/>
+    <tag k="sl_stop_id" v="9702"/>
+  </node>
+  <node id="27594767" lat="59.3836259" lon="17.8981821">
+    <tag k="name" v="Spånga"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Spå"/>
+    <tag k="sl_stop_id" v="9704"/>
+  </node>
+  <node id="27595452" lat="59.3136232" lon="18.0621076">
+    <tag k="layer" v="-2"/>
+    <tag k="name" v="Stockholms södra"/>
+    <tag k="name:da" v="Stockholms Södra"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9530"/>
+    <tag k="source" v="yahoo + local knowledge"/>
+    <tag k="wikipedia" v="sv:Stockholms_S%C3%B6dra"/>
+  </node>
+  <node id="29897897" lat="59.3581107" lon="18.1038994">
+    <tag k="name" v="Ropsten"/>
+    <tag k="operator" v="SL"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9220"/>
+  </node>
+  <node id="30171268" lat="59.3467370" lon="18.1545479">
+    <tag k="name" v="AGA"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9248"/>
+  </node>
+  <node id="30904224" lat="59.3814684" lon="18.0369380">
+    <tag k="name" v="Bergshamra"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9202"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Bergshamra,_Solna#Tunnelbanestationen"/>
+  </node>
+  <node id="31463058" lat="59.3617502" lon="18.1180032">
+    <tag k="name" v="Torsvik/Millesgården"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9252"/>
+  </node>
+  <node id="31463084" lat="59.3569350" lon="18.1333571">
+    <tag k="name" v="Baggeby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9251"/>
+  </node>
+  <node id="31463094" lat="59.3535553" lon="18.1384405">
+    <tag k="name" v="Bodal"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9250"/>
+  </node>
+  <node id="31464767" lat="59.3433819" lon="18.1702669">
+    <tag k="name" v="Skärsätra"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9219"/>
+  </node>
+  <node id="31464791" lat="59.3440654" lon="18.1932650">
+    <tag k="name" v="Högberga"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9244"/>
+  </node>
+  <node id="31464800" lat="59.3484114" lon="18.2038726">
+    <tag k="name" v="Brevik"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9243"/>
+  </node>
+  <node id="31464828" lat="59.3555272" lon="18.2226650">
+    <tag k="name" v="Talludden"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9241"/>
+  </node>
+  <node id="31464833" lat="59.3569096" lon="18.2290566">
+    <tag k="name" v="Gåshaga"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9240"/>
+  </node>
+  <node id="31493912" lat="59.3649055" lon="18.0512764">
+    <tag k="alt_name" v="Unv"/>
+    <tag k="name" v="Universitetet"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9203"/>
+  </node>
+  <node id="31493940" lat="59.3464037" lon="18.0708417">
+    <tag k="alt_name" v="Östra station"/>
+    <tag k="name" v="Stockholms Östra"/>
+    <tag k="platforms" v="6"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9600"/>
+    <tag k="source" v="yahoo"/>
+  </node>
+  <node id="31494656" lat="59.4691085" lon="18.3073425">
+    <tag k="name" v="Tunagård"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9661"/>
+  </node>
+  <node id="31494680" lat="59.3922177" lon="18.0473115">
+    <tag k="alt_name" v="Möb"/>
+    <tag k="name" v="Mörby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9638"/>
+  </node>
+  <node id="31494694" lat="59.3981659" lon="18.0588547">
+    <tag k="alt_name" v="Djö"/>
+    <tag k="name" v="Djursholms Ösby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9637"/>
+  </node>
+  <node id="31494703" lat="59.4053485" lon="18.0604850">
+    <tag k="name" v="Bråvallavägen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9636"/>
+  </node>
+  <node id="31494737" lat="59.4257664" lon="18.0514142">
+    <tag k="name" v="Enebyberg"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9634"/>
+  </node>
+  <node id="31494789" lat="59.3848157" lon="18.0437704">
+    <tag k="alt_name" v="Ssu"/>
+    <tag k="name" v="Stocksund"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9639"/>
+  </node>
+  <node id="31495130" lat="59.4351829" lon="18.0573902">
+    <tag k="name" v="Roslags Näsby"/>
+    <tag k="platforms" v="3"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9633"/>
+  </node>
+  <node id="31495467" lat="59.4445137" lon="18.0750002">
+    <tag k="name" v="Täby centrum"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9669"/>
+  </node>
+  <node id="31495473" lat="59.4469207" lon="18.0850038">
+    <tag k="name" v="Galoppfältet"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9668"/>
+  </node>
+  <node id="31495484" lat="59.4494122" lon="18.1043903">
+    <tag k="name" v="Viggbyholm"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9667"/>
+  </node>
+  <node id="31495501" lat="59.4509258" lon="18.1250467">
+    <tag k="name" v="Hägernäs"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9666"/>
+  </node>
+  <node id="31495563" lat="59.4653971" lon="18.1856084">
+    <tag k="name" v="Rydbo"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9665"/>
+  </node>
+  <node id="31495675" lat="59.4608361" lon="18.3116427">
+    <tag k="name" v="Österskär"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9660"/>
+  </node>
+  <node id="31495943" lat="59.4426273" lon="18.0627726">
+    <tag k="name" v="Tibble"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9632"/>
+  </node>
+  <node id="31496253" lat="59.4533157" lon="18.0637335">
+    <tag k="name" v="Ensta"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9631"/>
+  </node>
+  <node id="31496263" lat="59.4626123" lon="18.0631771">
+    <tag k="name" v="Visinge"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9630"/>
+  </node>
+  <node id="31496300" lat="59.4930222" lon="18.0662483">
+    <tag k="name" v="Täby kyrkby"/>
+    <tag k="platforms" v="1"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9629"/>
+  </node>
+  <node id="34058971" lat="59.3568916" lon="18.2337724">
+    <tag k="name" v="Gåshaga brygga"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9239"/>
+  </node>
+  <node id="34914696" lat="59.3573279" lon="18.1024710">
+    <tag k="name" v="Ropsten"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9220"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Ropsten_%28tunnelbanestation%29"/>
+  </node>
+  <node id="35320069" lat="59.1997352" lon="17.8365076">
+    <tag k="name" v="Tumba"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Tu"/>
+    <tag k="sl_stop_id" v="9524"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="35320143" lat="59.2055983" lon="17.9044993">
+    <tag k="name" v="Tullinge"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Tul"/>
+    <tag k="sl_stop_id" v="9525"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="35439404" lat="59.1936059" lon="17.7506936">
+    <tag k="name" v="Rönninge"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Rön"/>
+    <tag k="sl_stop_id" v="9523"/>
+    <tag k="source" v="yahoo"/>
+  </node>
+  <node id="35690049" lat="59.4282762" lon="17.9485219">
+    <tag k="name" v="Sollentuna"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Sol"/>
+    <tag k="sl_stop_id" v="9506"/>
+  </node>
+  <node id="35968307" lat="59.4437915" lon="17.9328751">
+    <tag k="name" v="Häggvik"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Hgv"/>
+    <tag k="sl_stop_id" v="9505"/>
+  </node>
+  <node id="35968619" lat="59.4591148" lon="17.9242787">
+    <tag k="name" v="Norrviken"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Nvk"/>
+    <tag k="sl_stop_id" v="9504"/>
+  </node>
+  <node id="35975509" lat="59.3333799" lon="17.9823133">
+    <tag k="name" v="Alvik"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9112"/>
+  </node>
+  <node id="35975550" lat="59.3252493" lon="17.9737402">
+    <tag k="name" v="Klövervägen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9127"/>
+  </node>
+  <node id="35975578" lat="59.3234493" lon="17.9568042">
+    <tag k="name" v="Ålstensgatan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9125"/>
+  </node>
+  <node id="35975589" lat="59.3206853" lon="17.9521447">
+    <tag k="name" v="Ålstens gård"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9124"/>
+  </node>
+  <node id="35975610" lat="59.3234581" lon="17.9397565">
+    <tag k="name" v="Höglandstorget"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9123"/>
+  </node>
+  <node id="35975618" lat="59.3279312" lon="17.9350807">
+    <tag k="name" v="Olovslund"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9122"/>
+  </node>
+  <node id="35975619" lat="59.3289817" lon="17.9287438">
+    <tag k="name" v="Nockeby Torg"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9121"/>
+  </node>
+  <node id="35975629" lat="59.3287134" lon="17.9184262">
+    <tag k="name" v="Nockeby"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9120"/>
+  </node>
+  <node id="36202909" lat="59.1920351" lon="17.6274886">
+    <tag k="name" v="Södertälje centrum"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Söc"/>
+    <tag k="sl_stop_id" v="9520"/>
+  </node>
+  <node id="36976073" lat="59.3199846" lon="18.0730594">
+    <tag k="name" v="Slussen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9192"/>
+  </node>
+  <node id="36989940" lat="59.3121157" lon="18.1083806">
+    <tag k="name" v="Henriksdal"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9432"/>
+    <tag k="source" v="yahoo + survey"/>
+  </node>
+  <node id="36989950" lat="59.3067467" lon="18.1215419">
+    <tag k="name" v="Sickla"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9431"/>
+  </node>
+  <node id="36995793" lat="59.3068104" lon="18.1493647">
+    <tag k="name" v="Saltsjö-Järla"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9429"/>
+  </node>
+  <node id="36995817" lat="59.3056073" lon="18.1779567">
+    <tag k="name" v="Storängen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9427"/>
+  </node>
+  <node id="36995879" lat="59.2948839" lon="18.2353113">
+    <tag k="name" v="Östervik"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9425"/>
+  </node>
+  <node id="36998357" lat="59.2940913" lon="18.2557150">
+    <tag k="name" v="Fisksätra"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9424"/>
+  </node>
+  <node id="36998371" lat="59.2900153" lon="18.2753500">
+    <tag k="name" v="Igelboda"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9423"/>
+  </node>
+  <node id="37002064" lat="59.2841871" lon="18.2773237">
+    <tag k="name" v="Tippen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9443"/>
+  </node>
+  <node id="37002076" lat="59.2790313" lon="18.2820021">
+    <tag k="name" v="Tattby"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9442"/>
+  </node>
+  <node id="37002098" lat="59.2727682" lon="18.2854004">
+    <tag k="name" v="Erstaviksbadet"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9441"/>
+  </node>
+  <node id="37002113" lat="59.2708945" lon="18.2960306">
+    <tag k="name" v="Solsidan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9440"/>
+  </node>
+  <node id="37014174" lat="59.2884353" lon="18.2923067">
+    <tag k="name" v="Neglinge"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9422"/>
+  </node>
+  <node id="37014187" lat="59.2830858" lon="18.3022566">
+    <tag k="name" v="Ringvägen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9421"/>
+  </node>
+  <node id="37014205" lat="59.2790314" lon="18.3122854">
+    <tag k="name" v="Saltsjöbaden"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9420"/>
+  </node>
+  <node id="37073041" lat="59.2277488" lon="18.1308314">
+    <tag k="name" v="Trångsund"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Tåd"/>
+    <tag k="sl_stop_id" v="9732"/>
+  </node>
+  <node id="37073137" lat="59.1422334" lon="18.1265854">
+    <tag k="name" v="Jordbro"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Jbo"/>
+    <tag k="sl_stop_id" v="9729"/>
+  </node>
+  <node id="37073149" lat="59.1230560" lon="18.1033719">
+    <tag k="name" v="Västerhaninge"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Vhe"/>
+    <tag k="sl_stop_id" v="9728"/>
+  </node>
+  <node id="37073159" lat="59.1026045" lon="18.0456481">
+    <tag k="name" v="Tungelsta"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Ts"/>
+    <tag k="sl_stop_id" v="9726"/>
+  </node>
+  <node id="37073203" lat="59.0289347" lon="17.9266574">
+    <tag k="name" v="Segersäng"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Ssä"/>
+    <tag k="sl_stop_id" v="9724"/>
+  </node>
+  <node id="38152767" lat="59.4090374" lon="17.9623526">
+    <tag k="name" v="Helenelund"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Hel"/>
+    <tag k="sl_stop_id" v="9507"/>
+  </node>
+  <node id="38336499" lat="59.0938437" lon="17.5681203">
+    <tag k="name" v="Järna"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Jn"/>
+    <tag k="sl_stop_id" v="9542"/>
+  </node>
+  <node id="38464534" lat="59.5458240" lon="18.0796191">
+    <tag k="name" v="Ormsta station"/>
+    <tag k="operator" v="Roslagsbanan"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9625"/>
+  </node>
+  <node id="38464751" lat="59.6389908" lon="18.2262771">
+    <tag k="name" v="Ekskogen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9621"/>
+  </node>
+  <node id="38486530" lat="59.6570820" lon="18.2682681">
+    <tag k="name" v="Kårsta"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9620"/>
+  </node>
+  <node id="48884984" lat="59.1852318" lon="17.6582553">
+    <tag k="name" v="Östertälje"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Öte"/>
+    <tag k="sl_stop_id" v="9522"/>
+    <tag k="source" v="yahoo"/>
+  </node>
+  <node id="52179817" lat="59.4301914" lon="18.0954758">
+    <tag k="name" v="Näsby Park"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9680"/>
+  </node>
+  <node id="59751300" lat="59.4805943" lon="18.2703711">
+    <tag k="name" v="Åkers Runö"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9663"/>
+  </node>
+  <node id="59751301" lat="59.4790109" lon="18.2997036">
+    <tag k="name" v="Åkersberga"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9662"/>
+  </node>
+  <node id="59776507" lat="59.4725283" lon="18.2339369">
+    <tag k="name" v="Täljö"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9664"/>
+  </node>
+  <node id="60192718" lat="59.3669319" lon="17.8436463">
+    <tag k="name" v="Hässelby gård"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9101"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/H%C3%A4sselby_G%C3%A5rd#Tunnelbanan"/>
+  </node>
+  <node id="60192730" lat="59.3613036" lon="17.8321931">
+    <tag k="name" v="Hässelby strand"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9100"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/H%C3%A4sselby_Strand#Tunnelbanestationen"/>
+  </node>
+  <node id="60746176" lat="59.3458826" lon="18.0716400">
+    <tag k="alt_name" v="Östra station"/>
+    <tag k="name" v="Tekniska Högskolan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9204"/>
+    <tag k="source" v="yahoo + survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Tekniska_h%C3%B6gskolan_%28tunnelbanestation%29"/>
+  </node>
+  <node id="60764434" lat="58.9139167" lon="17.9425623">
+    <tag k="name" v="Nynäsgård"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Ngd"/>
+    <tag k="sl_stop_id" v="9722"/>
+  </node>
+  <node id="60764526" lat="58.9009136" lon="17.9507475">
+    <tag k="name" v="Nynäshamn"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Nyh"/>
+    <tag k="sl_stop_id" v="9720"/>
+  </node>
+  <node id="60874430" lat="59.2635607" lon="18.0821677">
+    <tag k="name" v="Gubbängen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9183"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Gubb%C3%A4ngen#Tunnelbanan"/>
+  </node>
+  <node id="60874939" lat="59.2957100" lon="18.0898017">
+    <tag k="name" v="Skärmarbrink"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9188"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Sk%C3%A4rmarbrink#Tunnelbanestationen"/>
+  </node>
+  <node id="60874944" lat="59.2902621" lon="18.0912351">
+    <tag k="name" v="Blåsut"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9187"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Bl%C3%A5sut,_Stockholm"/>
+  </node>
+  <node id="60874948" lat="59.2857903" lon="18.0920034">
+    <tag k="name" v="Sandsborg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9186"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Sandsborg"/>
+  </node>
+  <node id="60875265" lat="59.2948627" lon="18.1042512">
+    <tag k="name" v="Hammarbyhöjden"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9144"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Hammarbyh%C3%B6jden_%28tunnelbanestation%29"/>
+  </node>
+  <node id="60876360" lat="59.2433303" lon="18.0940912">
+    <tag k="name" v="Farsta"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9181"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Farsta_%28tunnelbanestation%29"/>
+  </node>
+  <node id="60884460" lat="59.2774259" lon="18.0671587">
+    <tag k="name" v="Svedmyra"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9165"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Svedmyra_%28tunnelbanestation%29"/>
+  </node>
+  <node id="60884889" lat="59.2625476" lon="18.0127690">
+    <tag k="name" v="Hagsätra"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9160"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Hags%C3%A4tra#Tunnelbanestation"/>
+  </node>
+  <node id="66919726" lat="59.5208780" lon="17.8990206">
+    <tag k="name" v="Upplands Väsby"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Upv"/>
+    <tag k="sl_stop_id" v="9502"/>
+  </node>
+  <node id="90297925" lat="59.3425475" lon="18.0805559">
+    <tag k="name" v="Stadion"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9205"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Stadion_%28tunnelbanestation%29"/>
+  </node>
+  <node id="91778254" lat="59.3986026" lon="18.0363385">
+    <tag k="is_in:county" v="Stockholms län"/>
+    <tag k="is_in:municipality" v="Danderyds kommun"/>
+    <tag k="is_in:suburb" v="Mörby"/>
+    <tag k="name" v="Mörby centrum"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9200"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/M%C3%B6rby_centrum#Tunnelbanan"/>
+  </node>
+  <node id="91778256" lat="59.3909654" lon="18.0419187">
+    <tag k="name" v="Danderyds sjukhus"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9201"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Danderyds_sjukhus_%28tunnelbanestation%29"/>
+  </node>
+  <node id="104345139" lat="59.2542042" lon="17.9967712">
+    <tag k="name" v="Stuvsta"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Sta"/>
+    <tag k="sl_stop_id" v="9528"/>
+    <tag k="source" v="yahoo + survey"/>
+  </node>
+  <node id="143859821" lat="59.5123495" lon="17.6328931">
+    <tag k="name" v="Bro"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Bro"/>
+    <tag k="sl_stop_id" v="9711"/>
+  </node>
+  <node id="146868479" lat="59.2912040" lon="18.1154858">
+    <tag k="name" v="Björkhagen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9143"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Bj%C3%B6rkhagen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="146909368" lat="59.2992406" lon="18.0812253">
+    <tag k="name" v="Gullmarsplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9189"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Gullmarsplan"/>
+  </node>
+  <node id="148405709" lat="59.3652586" lon="18.0543847">
+    <tag k="name" v="Universitetet"/>
+    <tag k="operator" v="SL"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9203"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Universitetet_%28tunnelbanestation%29"/>
+  </node>
+  <node id="148908385" lat="59.4776205" lon="17.7520167">
+    <tag k="name" v="Kungsängen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Kän"/>
+    <tag k="sl_stop_id" v="9702"/>
+  </node>
+  <node id="158680456" lat="59.3109168" lon="18.0243523">
+    <tag k="name" v="Liljeholmen"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9294"/>
+  </node>
+  <node id="158680474" lat="59.2992498" lon="18.0296894">
+    <tag k="name" v="Årstaberg"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9531"/>
+  </node>
+  <node id="175207798" lat="59.3141316" lon="18.0182752">
+    <tag k="name" v="Trekanten"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1603"/>
+  </node>
+  <node id="180485540" lat="59.2433598" lon="17.8251218">
+    <tag k="name" v="Hallunda"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9281"/>
+    <tag k="source" v="yahoo + local knowledge"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Hallunda_%28tunnelbanestation%29"/>
+  </node>
+  <node id="180485553" lat="59.2439632" lon="17.8127215">
+    <tag k="name" v="Norsborg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9280"/>
+    <tag k="source" v="yahoo + local knowledge"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Norsborg_%28tunnelbanestation%29"/>
+  </node>
+  <node id="180495282" lat="59.2399289" lon="17.8455445">
+    <tag k="name" v="Alby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9282"/>
+    <tag k="source" v="yahoo + local knowledge"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Alby,_Botkyrka_kommun#Tunnelbanestationen"/>
+  </node>
+  <node id="185944663" lat="59.2759648" lon="17.8899088">
+    <tag k="name" v="Vårberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9286"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/V%C3%A5rberg#Tunnelbanestationen"/>
+  </node>
+  <node id="186124520" lat="59.2913449" lon="17.9665757">
+    <tag k="name" v="Västertorp"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9261"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/V%C3%A4stertorp#Tunnelbanestationen"/>
+  </node>
+  <node id="186124536" lat="59.2862829" lon="17.9647998">
+    <tag k="name" v="Fruängen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9260"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Fru%C3%A4ngen#Tunnelbanestationen"/>
+  </node>
+  <node id="207583732" lat="59.3364222" lon="17.9537527">
+    <tag k="name" v="Abrahamsberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9110"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Abrahamsberg_%28tunnelbanestation%29"/>
+  </node>
+  <node id="207595413" lat="59.3551737" lon="17.8819362">
+    <tag k="name" v="Råcksta"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9104"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/R%C3%A5cksta_%28tunnelbanestation%29"/>
+  </node>
+  <node id="240364135" lat="59.4273341" lon="18.0850399">
+    <tag k="name" v="Näsby Allé"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9681"/>
+  </node>
+  <node id="245415815" lat="59.4104329" lon="18.0729025">
+    <tag k="name" v="Altorp"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9683"/>
+  </node>
+  <node id="245415816" lat="59.3999144" lon="18.0679058">
+    <tag k="name" v="Vendevägen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9685"/>
+  </node>
+  <node id="245415819" lat="59.4040089" lon="18.0740286">
+    <tag k="name" v="Östberga"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9684"/>
+  </node>
+  <node id="245416833" lat="59.4130290" lon="18.0575752">
+    <tag k="name" v="Djursholms Ekeby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9635"/>
+  </node>
+  <node id="246231585" lat="59.3055423" lon="17.9890986">
+    <tag k="name" v="Örnsberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9292"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/%C3%96rnsberg"/>
+  </node>
+  <node id="246515461" lat="59.3042024" lon="18.0958543">
+    <tag k="name" v="Luma"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="sl_stop_id" v="1552"/>
+  </node>
+  <node id="246515470" lat="59.3026257" lon="18.1033909">
+    <tag k="name" v="Sickla kaj"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1550"/>
+  </node>
+  <node id="247189512" lat="59.3064746" lon="18.0013536">
+    <tag k="name" v="Aspudden"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9293"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Aspudden#Tunnelbanestationen"/>
+  </node>
+  <node id="247189599" lat="59.3158007" lon="18.0348534">
+    <tag k="name" v="Hornstull"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9295"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Hornstull#Tunnelbanestationen"/>
+  </node>
+  <node id="247189604" lat="59.3176203" lon="18.0497253">
+    <tag k="name" v="Zinkensdamm"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9296"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Zinkensdamm#Tunnelbanestationen"/>
+  </node>
+  <node id="247688145" lat="59.3444185" lon="18.1800428">
+    <tag k="name" v="Kottla"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9245"/>
+  </node>
+  <node id="249108472" lat="59.4154540" lon="17.9131655">
+    <tag k="name" v="Akalla"/>
+    <tag k="name:ru" v="Акалла"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9300"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Akalla_%28tunnelbanestation%29"/>
+  </node>
+  <node id="251838733" lat="59.3167652" lon="18.0611137">
+    <tag k="name" v="Mariatorget"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9297"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Mariatorget_%28tunnelbanestation%29"/>
+  </node>
+  <node id="251838817" lat="59.3194251" lon="18.0722289">
+    <tag k="name" v="Slussen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9192"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Slussen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="252456835" lat="59.3497289" lon="17.9871946">
+    <tag k="name" v="Huvudsta"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9327"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Huvudsta_%28tunnelbanestation%29"/>
+  </node>
+  <node id="254400297" lat="59.3335752" lon="17.9801472">
+    <tag k="name" v="Alvik"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9112"/>
+  </node>
+  <node id="254435534" lat="59.1664112" lon="18.1341847">
+    <tag k="name" v="Handen"/>
+    <tag k="old_name" v="Österhaninge; Haninge Centrum"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Hnd"/>
+    <tag k="sl_stop_id" v="9730"/>
+  </node>
+  <node id="254436952" lat="59.1087413" lon="18.0652836">
+    <tag k="name" v="Krigslida"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Kda"/>
+    <tag k="sl_stop_id" v="9727"/>
+  </node>
+  <node id="254436991" lat="59.0682634" lon="17.9754105">
+    <tag k="name" v="Hemfosa"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Hfa"/>
+    <tag k="sl_stop_id" v="9725"/>
+  </node>
+  <node id="254641422" lat="59.3664864" lon="18.0096279">
+    <tag k="name" v="Solna"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="So"/>
+    <tag k="sl_stop_id" v="9509"/>
+  </node>
+  <node id="254656716" lat="59.3591536" lon="17.9988069">
+    <tag k="name" v="Solna Centrum"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9305"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Solna_centrum_%28tunnelbanestation%29"/>
+  </node>
+  <node id="254878496" lat="59.3043750" lon="17.9743968">
+    <tag k="name" v="Axelsberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9291"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Axelsberg"/>
+  </node>
+  <node id="254878941" lat="59.3009687" lon="17.9557719">
+    <tag k="name" v="Mälarhöjden"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9290"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/M%C3%A4larh%C3%B6jden#Tunnelbanestationen"/>
+  </node>
+  <node id="254879655" lat="59.2853649" lon="17.9213325">
+    <tag k="name" v="Sätra"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9288"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/S%C3%A4tra,_Stockholm#Tunnelbanestationen"/>
+  </node>
+  <node id="254885993" lat="59.3151460" lon="18.0732572">
+    <tag k="name" v="Medborgarplatsen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9191"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Medborgarplatsen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="254888020" lat="59.3087583" lon="18.0759597">
+    <tag k="name" v="Skanstull"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9190"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Skanstull_%28tunnelbanestation%29"/>
+  </node>
+  <node id="255277085" lat="59.2573549" lon="18.0829194">
+    <tag k="name" v="Hökarängen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9182"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/H%C3%B6kar%C3%A4ngen#Tunnelbanestationen"/>
+  </node>
+  <node id="257097640" lat="59.3026896" lon="18.0880384">
+    <tag k="name" v="Mårtensdal"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1555"/>
+  </node>
+  <node id="258159605" lat="59.2350546" lon="18.1021152">
+    <tag k="name" v="Farsta strand"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9180"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Farsta_strand"/>
+  </node>
+  <node id="261016665" lat="59.6280742" lon="17.8615061">
+    <tag k="name" v="Märsta"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Mr"/>
+    <tag k="sl_stop_id" v="9500"/>
+  </node>
+  <node id="262862173" lat="59.4082213" lon="17.9287008">
+    <tag k="name" v="Husby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9301"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Husby,_Stockholm#Tunnelbanan"/>
+  </node>
+  <node id="264197070" lat="59.3323841" lon="18.0630547">
+    <tag k="name" v="T-Centralen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9001"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/T-Centralen"/>
+  </node>
+  <node id="264197073" lat="59.3359140" lon="18.0630906">
+    <tag k="name" v="Hötorget"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9119"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/H%C3%B6torget#Tunnelbanestationen"/>
+  </node>
+  <node id="264197079" lat="59.3430376" lon="18.0498966">
+    <tag k="name" v="Odenplan"/>
+    <tag k="name:ru" v="Уденплан"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9117"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Odenplan_%28tunnelbanestation%29"/>
+  </node>
+  <node id="265637810" lat="59.3230733" lon="18.0673375">
+    <tag k="name" v="Gamla stan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9193"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Gamla_stan_%28tunnelbanestation%29"/>
+  </node>
+  <node id="266791890" lat="59.3506744" lon="18.1456148">
+    <tag k="name" v="Larsberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9249"/>
+  </node>
+  <node id="267215057" lat="59.5235794" lon="18.0718087">
+    <tag k="name" v="Bällsta station"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9627"/>
+  </node>
+  <node id="267215149" lat="59.5341755" lon="18.0800240">
+    <tag k="name" v="Vallentuna station"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9626"/>
+  </node>
+  <node id="271664618" lat="59.3404538" lon="18.0372480">
+    <tag k="name" v="S:t Eriksplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9116"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/S:t_Eriksplan_%28tunnelbanestation%29"/>
+  </node>
+  <node id="271664920" lat="59.3324773" lon="18.0306017">
+    <tag k="name" v="Fridhemsplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9115"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Fridhemsplan_%28tunnelbanestation%29"/>
+  </node>
+  <node id="271665224" lat="59.3314207" lon="18.0149657">
+    <tag k="name" v="Thorildsplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9114"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Thorildsplan"/>
+  </node>
+  <node id="271890346" lat="59.3397525" lon="18.0922955">
+    <tag k="name" v="Karlaplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9222"/>
+    <tag k="source" v="Survey"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Karlaplan_%28tunnelbanestation%29"/>
+  </node>
+  <node id="276297257" lat="59.4033807" lon="17.8692099">
+    <tag k="name" v="Barkarby"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Bkb"/>
+    <tag k="sl_stop_id" v="9703"/>
+  </node>
+  <node id="281893188" lat="59.5841182" lon="18.1092747">
+    <tag k="name" v="Lindholmen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9623"/>
+  </node>
+  <node id="292057903" lat="58.8997669" lon="17.9315690">
+    <tag k="name" v="Gröndalsviken"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Gdv"/>
+    <tag k="sl_stop_id" v="9721"/>
+  </node>
+  <node id="293340663" lat="59.3353390" lon="18.0770786">
+    <tag k="name" v="Östermalmstorg"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9206"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/%C3%96stermalmstorg_%28tunnelbanestation%29"/>
+  </node>
+  <node id="293341419" lat="59.3458398" lon="18.0991338">
+    <tag k="name" v="Gärdet"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9221"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/G%C3%A4rdet_%28tunnelbanestation%29"/>
+  </node>
+  <node id="294549037" lat="59.3005806" lon="18.1984421">
+    <tag k="name" v="Saltsjö-Duvnäs"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9426"/>
+  </node>
+  <node id="297970292" lat="59.3962122" lon="17.8880577">
+    <tag k="name" v="Hjulsta"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9320"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Hjulsta"/>
+  </node>
+  <node id="297970642" lat="59.3946111" lon="17.9009189">
+    <tag k="name" v="Tensta"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9321"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Tensta_%28tunnelbanestation%29"/>
+  </node>
+  <node id="299557918" lat="59.3250495" lon="18.0972177">
+    <tag k="name" v="Liljevalchs/Gröna Lund"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1406"/>
+  </node>
+  <node id="302897305" lat="59.3527648" lon="18.2178864">
+    <tag k="name" v="Käppala"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9242"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="309274548" lat="59.5102010" lon="18.0758034">
+    <tag k="name" v="Kragstalund"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9628"/>
+  </node>
+  <node id="316692572" lat="59.3020761" lon="18.0114420">
+    <tag k="name" v="Midsommarkransen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9264"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Midsommarkransen_%28tunnelbanestation%29#Tunnelbanestationerna"/>
+  </node>
+  <node id="316926943" lat="59.3403684" lon="18.0588691">
+    <tag k="name" v="Rådmansgatan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9118"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/R%C3%A5dmansgatan_%28tunnelbanestation%29"/>
+  </node>
+  <node id="320918136" lat="59.2663664" lon="18.1330239">
+    <tag k="name" v="Skarpnäck"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9140"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Skarpn%C3%A4ck_%28tunnelbanestation%29"/>
+  </node>
+  <node id="320918138" lat="59.2761753" lon="18.1314051">
+    <tag k="name" v="Bagarmossen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9141"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Bagarmossen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="332572929" lat="59.3369928" lon="18.0172000">
+    <tag k="name" v="Stadshagen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9307"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Stadshagen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="332576342" lat="59.3302632" lon="18.0418619">
+    <tag k="name" v="Rådhuset"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9309"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/R%C3%A5dhuset_%28tunnelbanestation%29"/>
+  </node>
+  <node id="333253941" lat="59.3311409" lon="18.0723342">
+    <tag k="name" v="Kungsträdgården"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9340"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Kungstr%C3%A4dg%C3%A5rden_%28tunnelbanestation%29"/>
+  </node>
+  <node id="343164520" lat="59.3475370" lon="18.0040176">
+    <tag k="name" v="Västra Skogen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9306"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/V%C3%A4stra_skogen#Tunnelbanestationen"/>
+  </node>
+  <node id="373486122" lat="59.3317387" lon="18.0926347">
+    <tag k="name" v="Djurgårdsbron"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1100"/>
+  </node>
+  <node id="414109952" lat="59.3671112" lon="17.9825154">
+    <tag k="name" v="Näckrosen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9304"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/N%C3%A4ckrosen"/>
+  </node>
+  <node id="414109953" lat="59.3751164" lon="17.9703732">
+    <tag k="name" v="Hallonbergen"/>
+    <tag k="name:ru" v="Халлонберген"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9303"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Hallonbergen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="432931315" lat="59.3757465" lon="17.9404692">
+    <tag k="name" v="Rissne"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9323"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Rissne"/>
+  </node>
+  <node id="432931318" lat="59.3677443" lon="17.9651885">
+    <tag k="name" v="Duvbo"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9324"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Duvbo_%28tunnelbanestation%29"/>
+  </node>
+  <node id="432931322" lat="59.3608370" lon="17.9727791">
+    <tag k="name" v="Sundbybergs centrum"/>
+    <tag k="name:ru" v="Сундбюбергс сентрум"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9325"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Sundbybergs_centrum"/>
+  </node>
+  <node id="432942284" lat="59.3546120" lon="17.9734658">
+    <tag k="name" v="Vreten"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9326"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Vreten"/>
+  </node>
+  <node id="443684543" lat="59.3247164" lon="17.9930237">
+    <tag k="name" v="Stora Essingen"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9811"/>
+  </node>
+  <node id="482598080" lat="59.5572291" lon="18.0850387">
+    <tag k="name" v="Molnby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9624"/>
+  </node>
+  <node id="482602417" lat="59.6241393" lon="18.1704895">
+    <tag k="name" v="Frösunda"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9622"/>
+  </node>
+  <node id="497511257" lat="59.2498111" lon="17.8814639">
+    <tag k="name" v="Masmo"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9284"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Masmo"/>
+  </node>
+  <node id="519260372" lat="58.9840076" lon="17.9025306">
+    <tag k="name" v="Ösmo"/>
+    <tag k="operator" v="SL"/>
+    <tag k="platforms" v="1"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Öso"/>
+    <tag k="sl_stop_id" v="9723"/>
+  </node>
+  <node id="519343282" lat="59.1632030" lon="17.6450312">
+    <tag k="name" v="Södertälje syd"/>
+    <tag k="name:technical" v="Södertälje syd undre"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Söu"/>
+    <tag k="sl_stop_id" v="9543"/>
+  </node>
+  <node id="527940082" lat="59.3226325" lon="18.1112549">
+    <tag k="name" v="Waldemarsudde"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1400"/>
+  </node>
+  <node id="566172755" lat="59.3240373" lon="18.1015833">
+    <tag k="name" v="Skansenslingan"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1419"/>
+  </node>
+  <node id="566172777" lat="59.3237137" lon="18.1017075">
+    <tag k="name" v="Skansen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1405"/>
+  </node>
+  <node id="583593280" lat="59.4028739" lon="17.9425260">
+    <tag k="name" v="Kista"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9302"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="583593877" lat="59.4030266" lon="17.9429044">
+    <tag k="name" v="Kista"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9302"/>
+  </node>
+  <node id="617285158" lat="59.3042352" lon="18.0959423">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Luma"/>
+    <tag k="route_ref" v="74;96"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="sl_stop_id" v="1552"/>
+  </node>
+  <node id="682284201" lat="59.3240480" lon="18.1109108">
+    <tag k="name" v="Bellmansro"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1409"/>
+  </node>
+  <node id="820269489" lat="59.3065769" lon="18.1308791">
+    <tag k="name" v="Nacka"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9430"/>
+  </node>
+  <node id="820269495" lat="59.3050850" lon="18.1616845">
+    <tag k="name" v="Lillängen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9428"/>
+  </node>
+  <node id="846210750" lat="59.3327626" lon="18.0705449">
+    <tag k="name" v="Kungsträdgården"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1016"/>
+  </node>
+  <node id="846210755" lat="59.3325792" lon="18.0667063">
+    <tag k="name" v="Sergels torg"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1000"/>
+  </node>
+  <node id="1095159613" lat="59.3316648" lon="18.0840906">
+    <tag k="name" v="Styrmansgatan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1107"/>
+  </node>
+  <node id="1128662607" lat="59.2947832" lon="17.9334371">
+    <tag k="name" v="Bredäng"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9289"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Bred%C3%A4ng#Tunnelbanestationen"/>
+  </node>
+  <node id="1204350052" lat="59.2787825" lon="18.0955043">
+    <tag k="name" v="Skogskyrkogården"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9185"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Skogskyrkog%C3%A5rden_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1204845743" lat="59.2365873" lon="18.1035188">
+    <tag k="name" v="Farsta strand"/>
+    <tag k="old_name" v="Södertörns Villastad"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Fas"/>
+    <tag k="sl_stop_id" v="9180"/>
+  </node>
+  <node id="1212010936" lat="59.2841178" lon="18.1147732">
+    <tag k="name" v="Kärrtorp"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9142"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/K%C3%A4rrtorp#Kommunikationer"/>
+  </node>
+  <node id="1212591673" lat="59.2932176" lon="18.0630524">
+    <tag k="name" v="Linde"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1503"/>
+  </node>
+  <node id="1214070117" lat="59.2830862" lon="18.0704605">
+    <tag k="name" v="Sockenplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9166"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Sockenplan"/>
+  </node>
+  <node id="1224682940" lat="59.2995835" lon="18.0801423">
+    <tag k="name" v="Gullmarsplan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9189"/>
+  </node>
+  <node id="1224682944" lat="59.2942326" lon="18.0765706">
+    <tag k="name" v="Globen"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9168"/>
+  </node>
+  <node id="1225083571" lat="59.2963635" lon="18.0395241">
+    <tag k="name" v="Årstafältet"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1521"/>
+  </node>
+  <node id="1225083689" lat="59.2950529" lon="18.0484798">
+    <tag k="name" v="Valla Torg"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1525"/>
+  </node>
+  <node id="1269678536" lat="59.2997653" lon="18.0282801">
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Årstaberg"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Åbe"/>
+    <tag k="sl_stop_id" v="9531"/>
+    <tag k="source" v="yahoo + local knowledge"/>
+  </node>
+  <node id="1270690786" lat="59.2782591" lon="18.0109639">
+    <tag k="name" v="Älvsjö"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9529"/>
+  </node>
+  <node id="1270693595" lat="59.2782837" lon="18.0106554">
+    <tag k="name" v="Älvsjö"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Äs"/>
+    <tag k="sl_stop_id" v="9529"/>
+    <tag k="source" v="yahoo"/>
+  </node>
+  <node id="1273638040" lat="59.2714647" lon="18.0860764">
+    <tag k="name" v="Tallkrogen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9184"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Tallkrogen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1277537467" lat="59.3058368" lon="18.0256365">
+    <tag k="name" v="Årstadal"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9807"/>
+  </node>
+  <node id="1279783349" lat="59.2995722" lon="18.0807709">
+    <tag k="name" v="Gullmarsplan"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9189"/>
+  </node>
+  <node id="1279799799" lat="59.2939545" lon="18.0767235">
+    <tag k="name" v="Globen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9168"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Globen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1292282558" lat="59.3335273" lon="17.9821033">
+    <tag k="name" v="Alvik"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9112"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Alvik_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1293172417" lat="59.2895317" lon="18.0700744">
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Palmfeltsvägen"/>
+    <tag k="name" v="Enskede Gård"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9167"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Enskede_g%C3%A5rd_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1297839731" lat="59.2195725" lon="18.1531610">
+    <tag k="name" v="Skogås"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Skg"/>
+    <tag k="sl_stop_id" v="9731"/>
+  </node>
+  <node id="1298865668" lat="59.3159440" lon="18.0112977">
+    <tag k="name" v="Gröndal"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1605"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1298871369" lat="59.3062747" lon="18.1085312">
+    <tag k="name" v="Sickla udde"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9820"/>
+  </node>
+  <node id="1300249017" lat="59.3807703" lon="18.0003755">
+    <tag k="name" v="Ulriksdal"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Udl"/>
+    <tag k="sl_stop_id" v="9508"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1332810633" lat="59.2949980" lon="17.9779191">
+    <tag k="name" v="Hägerstensåsen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9262"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/H%C3%A4gerstens%C3%A5sen"/>
+  </node>
+  <node id="1354203309" lat="59.4241922" lon="18.0742831">
+    <tag k="name" v="Lahäll"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9682"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1357212248" lat="59.3607417" lon="17.9718708">
+    <tag k="is_in:kommun" v="Sundbyberg"/>
+    <tag k="name" v="Sundbyberg"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Sub"/>
+    <tag k="sl_stop_id" v="9325"/>
+  </node>
+  <node id="1386641763" lat="59.3333397" lon="18.0734748">
+    <tag k="name" v="Norrmalmstorg"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7N"/>
+    <tag k="sl_stop_id" v="1015"/>
+    <tag k="towards" v="Djurgården"/>
+  </node>
+  <node id="1398417468" lat="59.3168080" lon="18.0611306">
+    <tag k="name" v="Mariatorget"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9297"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Mariatorget_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1413589638" lat="59.3327254" lon="18.0766289">
+    <tag k="name" v="Nybroplan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1105"/>
+  </node>
+  <node id="1437414789" lat="59.3232071" lon="17.9403884">
+    <tag k="name" v="Höglandstorget"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9123"/>
+  </node>
+  <node id="1437414792" lat="59.3278964" lon="17.9354106">
+    <tag k="name" v="Olovslund"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9122"/>
+  </node>
+  <node id="1459131875" lat="59.3884097" lon="17.9286635">
+    <tag k="name" v="Rinkeby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9322"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Rinkeby#Tunnelbanan"/>
+  </node>
+  <node id="1482940539" lat="59.3318609" lon="18.0924529">
+    <tag k="name" v="Djurgårdsbron"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1100"/>
+  </node>
+  <node id="1495134933" lat="59.1786468" lon="17.6464753">
+    <tag k="name" v="Södertälje Hamn"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="stop"/>
+    <tag k="ref" v="Söd"/>
+    <tag k="sl_stop_id" v="9521"/>
+  </node>
+  <node id="1551247847" lat="59.3251762" lon="18.0971646">
+    <tag k="name" v="Liljevalchs/Gröna Lund"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1406"/>
+  </node>
+  <node id="1551361772" lat="59.3287294" lon="17.9740305">
+    <tag k="name" v="Alléparken"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9128"/>
+  </node>
+  <node id="1551361775" lat="59.3292918" lon="17.9744453">
+    <tag k="name" v="Alléparken"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9128"/>
+  </node>
+  <node id="1551361779" lat="59.3334147" lon="17.9823337">
+    <tag k="name" v="Alvik"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9112"/>
+  </node>
+  <node id="1551361783" lat="59.3248342" lon="17.9738664">
+    <tag k="name" v="Klövervägen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9127"/>
+  </node>
+  <node id="1551361797" lat="59.3290667" lon="17.9279905">
+    <tag k="name" v="Nockeby Torg"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9121"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1551361801" lat="59.3209589" lon="17.9636729">
+    <tag k="name" v="Smedslätten"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9126"/>
+  </node>
+  <node id="1551362812" lat="59.3205399" lon="17.9517988">
+    <tag k="name" v="Ålstens gård"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9124"/>
+  </node>
+  <node id="1551362815" lat="59.3233874" lon="17.9560825">
+    <tag k="name" v="Ålstensgatan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9125"/>
+  </node>
+  <node id="1551948607" lat="59.3345279" lon="17.9659093">
+    <tag k="name" v="Stora mossen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9111"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Stora_mossen_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1600660838" lat="59.3327465" lon="18.0707068">
+    <tag k="name" v="Kungsträdgården"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1016"/>
+  </node>
+  <node id="1600665497" lat="59.3326940" lon="18.0766016">
+    <tag k="name" v="Nybroplan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1105"/>
+  </node>
+  <node id="1620889617" lat="59.2746540" lon="18.0557470">
+    <tag k="name" v="Stureby"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9164"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Stureby_%28tunnelbanestation%29"/>
+  </node>
+  <node id="1697395613" lat="59.3664271" lon="17.9831781">
+    <tag k="name" v="Näckrosen"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="sl_stop_id" v="9304"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/N%C3%A4ckrosen"/>
+  </node>
+  <node id="1697395629" lat="59.3684845" lon="17.9800286">
+    <tag k="name" v="Näckrosen"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="sl_stop_id" v="9304"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/N%C3%A4ckrosen"/>
+  </node>
+  <node id="1697395634" lat="59.3665214" lon="17.9843637">
+    <tag k="name" v="Näckrosen"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="sl_stop_id" v="9304"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/N%C3%A4ckrosen"/>
+  </node>
+  <node id="1895195775" lat="59.3318760" lon="18.0922473">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Djurgårdsbron"/>
+    <tag k="route_ref" v="69;69K;76"/>
+    <tag k="sl_stop_id" v="1100"/>
+  </node>
+  <node id="2018523847" lat="59.3106783" lon="18.0246523">
+    <tag k="name" v="Liljeholmen"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9294"/>
+  </node>
+  <node id="2018523849" lat="59.3142709" lon="18.0179023">
+    <tag k="name" v="Trekanten"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1603"/>
+  </node>
+  <node id="2020441014" lat="59.3156548" lon="18.0097356">
+    <tag k="name" v="Gröndal"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="1605"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2069718820" lat="59.2637622" lon="18.0429949">
+    <tag k="name" v="Högdalen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9162"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/H%c3%b6gdalen+(tunnelbanestation)"/>
+  </node>
+  <node id="2163321581" lat="59.3105783" lon="18.0228243">
+    <tag k="name" v="Liljeholmen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9294"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Liljeholmen#Tunnelbanestationen"/>
+  </node>
+  <node id="2249281210" lat="59.3317164" lon="18.0927954">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Djurgårdsbron"/>
+    <tag k="route_ref" v="69;69K;76"/>
+    <tag k="sl_stop_id" v="1100"/>
+  </node>
+  <node id="2249281216" lat="59.3293485" lon="18.0953437">
+    <tag k="name" v="Nordiska museet/Vasamuseet"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1408"/>
+  </node>
+  <node id="2249281217" lat="59.3294016" lon="18.0953508">
+    <tag k="name" v="Nordiska museet/Vasamuseet"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1408"/>
+  </node>
+  <node id="2249281219" lat="59.3241075" lon="18.0996122">
+    <tag k="name" v="Skansen"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1405"/>
+  </node>
+  <node id="2383704053" lat="59.3331234" lon="17.9800428">
+    <tag k="name" v="Alvik"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="sl_stop_id" v="9112"/>
+  </node>
+  <node id="2392009092" lat="59.2769204" lon="17.9067517">
+    <tag k="name" v="Skärholmen"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9287"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Sk%C3%A4rholmen#Tunnelbanestationen"/>
+  </node>
+  <node id="2392108057" lat="59.2650802" lon="17.8836637">
+    <tag k="name" v="Vårby Gård"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9285"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/V%C3%A5rby_g%C3%A5rd"/>
+  </node>
+  <node id="2392735103" lat="59.2473595" lon="17.8607008">
+    <tag k="name" v="Fittja"/>
+    <tag k="railway" v="station"/>
+    <tag k="sl_stop_id" v="9283"/>
+    <tag k="source" v="yahoo + local knowledge"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/Fittja#Tunnelbanestationen"/>
+  </node>
+  <node id="2430541080" lat="59.3684845" lon="17.9800286">
+    <tag k="name" v="Näckrosen"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="sl_stop_id" v="9304"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikipedia" v="http://sv.wikipedia.org/wiki/N%C3%A4ckrosen"/>
+  </node>
+  <node id="2460497878" lat="59.3314682" lon="18.0850513">
+    <tag k="name" v="Styrmansgatan"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="route_ref" v="7"/>
+    <tag k="sl_stop_id" v="1107"/>
+  </node>
+  <node id="2467841540" lat="59.3041095" lon="18.0958411">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Luma"/>
+    <tag k="route_ref" v="74;96"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="sl_stop_id" v="1552"/>
+  </node>
+  <node id="2509482105" lat="59.5124039" lon="17.6329046">
+    <tag k="name" v="Bro"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="Bro"/>
+    <tag k="sl_stop_id" v="9711"/>
+  </node>
+
+</osm>

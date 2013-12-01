@@ -1,0 +1,1 @@
+XML parser for OSM [XAPI](http://wiki.openstreetmap.org/wiki/Xapi) responses from the [Overpass XAPI compatibility layer](http://wiki.openstreetmap.org/wiki/Xapi#Overpass_API) (which look slightly different from [normal OSM XML](http://wiki.openstreetmap.org/wiki/API_v0.6/DTD)).

@@ -1,0 +1,47 @@
+name:                osm-xapi
+version:             0.1.0.0
+-- synopsis:            
+description:         Parsers for OSM Xapi files
+homepage:            http://github.com/liesen/osm-xapi
+cabal-version:       >=1.10
+license:             LGPL-3
+license-file:        LICENSE
+author:              Johan Liesén
+maintainer:          johan@liesen.se
+copyright:           Johan Liesén
+category:            Utils
+build-type:          Simple
+extra-source-files:
+  .gitignore
+  README.md
+  examples/Test.hs
+  examples/sl_stop_id.osm
+
+library
+  build-depends:
+    base >=4.6 && <4.7
+    bytestring,
+    comonad >=4,
+    data-lens,
+    hxt >=9,
+    OSM,
+    text
+
+  other-extensions:
+    MultiParamTypeClasses,
+    TypeSynonymInstances,
+    FlexibleInstances
+
+  hs-source-dirs: src
+
+  default-language: Haskell2010
+
+  ghc-options: -Wall -fno-warn-name-shadowing
+
+  exposed-modules:
+    Data.Geo.OSM.Xapi
+    Data.Geo.OSM.Xapi.Meta
+    Data.Geo.OSM.Xapi.Note
+    Data.Geo.OSM.Xapi.Lens.MetaL
+    Data.Geo.OSM.Xapi.Lens.NoteL
+    Data.Geo.OSM.Xapi.Xapi
